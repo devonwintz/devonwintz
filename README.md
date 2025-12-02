@@ -2,14 +2,16 @@
 
   # Hi, 👋 I'm Devon Wintz
   Full-Stack Web Developer from Guyana
-  
-</div>
 
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonwintz&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) ![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devonwintz&show_icons=true&theme=transparent)
-
-</div>
+  <!--
+    </div>
+    
+    <div align="center">
+    
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devonwintz&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats) ![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devonwintz&show_icons=true&theme=transparent)
+     
+    </div>
+ -->
 
 
 #### Connect with me:
